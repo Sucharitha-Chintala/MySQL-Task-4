@@ -10,11 +10,11 @@ This project performs SQL analysis on an E-commerce dataset using MySQL. It incl
 - `E-commerce Dataset.csv`: Original dataset (optional)
 
 ## 🧠 Concepts Used
-- SELECT, WHERE, GROUP BY
+- SELECT, WHERE, GROUP BY, ORDER BY
 - Aggregate functions (AVG, COUNT)
 - Subqueries
 - Filtering by conditions
 
 ## 👩‍💻 Tools
 - MySQL Command Line Client
-- Excel/WPS Office
+- Excel
